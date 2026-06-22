@@ -29,29 +29,29 @@ export default function Footer() {
               to="/"
               className="font-display text-2xl font-semibold text-cream-100 mb-4 inline-block"
             >
-              Estat<span className="text-gold-500">oo</span>
+              Estat<span className="text-gold-500">x</span>
             </Link>
             <p className="text-stone-400 text-sm leading-relaxed mt-3 mb-6">
-              Premium real estate services across prime London, delivered with discretion and expertise since 2006.
+              Premium real estate services across prime Lagos, delivered with discretion and expertise since 2006.
             </p>
             <div className="flex flex-col gap-3">
               <a
-                href="mailto:hello@estatoo.co.uk"
+                href="#"
                 className="flex items-center gap-2.5 text-stone-400 hover:text-gold-400 text-sm transition-colors duration-200"
               >
                 <Mail size={14} />
-                hello@estatoo.co.uk
+                hello@estatx.gmail.com
               </a>
               <a
-                href="tel:+442071234567"
+                href="#"
                 className="flex items-center gap-2.5 text-stone-400 hover:text-gold-400 text-sm transition-colors duration-200"
               >
                 <Phone size={14} />
-                +44 20 7123 4567
+                +234 90 7123 4567
               </a>
               <span className="flex items-start gap-2.5 text-stone-400 text-sm">
                 <MapPin size={14} className="mt-0.5 shrink-0" />
-                14 Berkeley Square, Mayfair, London W1J 6BS
+                Victoria Island, Lagos, Nigeria
               </span>
             </div>
           </div>
@@ -87,7 +87,7 @@ export default function Footer() {
               Market Updates
             </h4>
             <p className="text-stone-400 text-sm leading-relaxed mb-4">
-              Receive quarterly insights on London property market trends and new listings.
+              Receive quarterly insights on Lagos property market trends and new listings.
             </p>
             <div className="flex flex-col gap-2">
               <input
@@ -105,10 +105,10 @@ export default function Footer() {
         {/* Bottom bar */}
         <div className="border-t border-charcoal-800 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-stone-500 text-xs">
-            {year} Estatoo Limited. All rights reserved.
+            {year} Estatx Limited. All rights reserved.
           </p>
           <p className="text-stone-500 text-xs">
-            Authorised and regulated by the Property Ombudsman.
+            {/* Authorised and regulated by the Property Ombudsman. */}
           </p>
         </div>
       </div>

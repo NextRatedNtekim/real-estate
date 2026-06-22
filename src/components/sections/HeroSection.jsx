@@ -38,7 +38,7 @@ export default function HeroSection() {
               transition={{ delay: 0.3, duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
               className="text-gold-400 text-xs font-medium tracking-widest uppercase mb-5"
             >
-              Prime London Real Estate
+              Prime Lagos Real Estate
             </motion.p>
 
             {/* Headline */}
@@ -60,7 +60,7 @@ export default function HeroSection() {
               transition={{ delay: 0.65, duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
               className="text-cream-200/80 text-sm leading-relaxed max-w-md mb-8"
             >
-              Eighteen years of discreet, expert real estate counsel across prime central London. We connect the right people to the right properties.
+              Eighteen years of discreet, expert real estate counsel across prime central Lagos. We connect the right people to the right properties.
             </motion.p>
 
             {/* CTAs */}

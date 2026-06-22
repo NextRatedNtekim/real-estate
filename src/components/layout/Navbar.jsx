@@ -46,7 +46,7 @@ export default function Navbar() {
             to="/"
             className="font-display text-2xl font-semibold tracking-tight text-charcoal-900"
           >
-            Estat<span className="text-gold-500">oo</span>
+            Estat<span className="text-gold-500">x</span>
           </Link>
 
           {/* Desktop Nav */}
