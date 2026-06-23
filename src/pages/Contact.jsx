@@ -5,8 +5,8 @@ import { fadeUp, staggerContainer, staggerItem, slideInLeft, slideInRight } from
 import PageHero from '../components/ui/PageHero'
 
 const contactDetails = [
-  { icon: Phone,  label: 'Telephone',    value: '+44 20 7123 4567',                  href: 'tel:+442071234567' },
-  { icon: Mail,   label: 'Email',        value: 'hello@estatoo.co.uk',               href: 'mailto:hello@estatoo.co.uk' },
+  { icon: Phone,  label: 'Telephone',    value: '+234 1 234 5678',                  href: '#' },
+  { icon: Mail,   label: 'Email',        value: 'hello@estatx.co.ng',               href: '#' },
   { icon: MapPin, label: 'Address',      value: '14 Berkeley Square, Mayfair, W1J 6BS', href: null },
   { icon: Clock,  label: 'Office Hours', value: 'Mon–Fri  9:00 – 18:00',             href: null },
 ]
@@ -172,7 +172,7 @@ export default function Contact() {
                       type="tel"
                       value={form.phone}
                       onChange={handleChange}
-                      placeholder="+44 7700 000000"
+                      placeholder="+234 1234 5678"
                       className="w-full bg-cream-200 border border-cream-300 text-charcoal-900 text-sm px-4 py-3 placeholder-stone-300 focus:outline-none focus:border-gold-500 transition-colors duration-200"
                     />
                   </div>

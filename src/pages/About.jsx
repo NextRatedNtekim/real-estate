@@ -10,8 +10,8 @@ export default function About() {
     <>
       <PageHero
         eyebrow="Our Story"
-        title="About Estatoo"
-        subtitle="An independent firm with a singular focus: exceptional real estate counsel across prime London."
+        title="About Estatx"
+        subtitle="An independent firm with a singular focus: exceptional real estate counsel across prime Lagos."
         image="https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=1400&q=80"
       />
 
@@ -33,13 +33,13 @@ export default function About() {
                 <em className="not-italic text-gold-500">not on volume.</em>
               </h2>
               <p className="text-stone-500 text-sm leading-relaxed mb-4">
-                Estatoo was founded by Eleanor Whitfield in 2006 following a decade at one of London's largest estate agencies. She left with a clear conviction: that the best real estate advice comes from advisors who are not incentivised to close deals quickly, but to close the right deals for their clients.
+                Estatx was founded by Eleanor Whitfield in 2006 following a decade at one of Lagos's largest estate agencies. She left with a clear conviction: that the best real estate advice comes from advisors who are not incentivised to close deals quickly, but to close the right deals for their clients.
               </p>
               <p className="text-stone-500 text-sm leading-relaxed mb-4">
-                The firm began as a buyer representation service — a relatively uncommon offering in the London market at the time. That focus on representing clients' interests, rather than those of the market, remains at the core of everything we do.
+                The firm began as a buyer representation service — a relatively uncommon offering in the Lagos market at the time. That focus on representing clients' interests, rather than those of the market, remains at the core of everything we do.
               </p>
               <p className="text-stone-500 text-sm leading-relaxed">
-                Today, Estatoo advises buyers, sellers, landlords, and investors across prime central London. Our team of twelve advisors holds an average of fourteen years of London market experience. We do not operate branches. We do not outsource. We are a single team, working from a single base, focused entirely on doing excellent work for a manageable number of clients each year.
+                Today, Estatx advises buyers, sellers, landlords, and investors across prime central Lagos. Our team of twelve advisors holds an average of fourteen years of Lagos market experience. We do not operate branches. We do not outsource. We are a single team, working from a single base, focused entirely on doing excellent work for a manageable number of clients each year.
               </p>
             </motion.div>
 
@@ -53,7 +53,7 @@ export default function About() {
               <div className="aspect-video overflow-hidden">
                 <img
                   src="https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80"
-                  alt="Estatoo office"
+                  alt="Estatx office"
                   className="w-full h-full object-cover"
                 />
               </div>
